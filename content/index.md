@@ -1,46 +1,53 @@
-# Tolkien Fan Club
+# 🎶 Dock 10
 
-![JRR Tolkien sitting](/images/tolkien.png)
+> *Bringing the best of the '70s and '80s to life!*
 
-Here's the deal, **I like Tolkien**.
+Dock 10 is a seven-piece family band from Massachusetts, dedicated to delivering high-energy performances of your favorite hits from the 1970s and 1980s. With a passion for classic tunes and a knack for engaging the audience, Dock 10 ensures every event is a memorable experience.
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
+---
 
-## Blog posts
+## 🎤 About Us
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+Formed by a group of music enthusiasts, Dock 10 has been rocking venues across Massachusetts, captivating audiences with their dynamic renditions of classic hits. Their performances are not just about music; they're about creating an atmosphere where everyone can dance, sing along, and relive the golden eras of rock and pop.
 
-## Reasons I like Tolkien
+---
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+## 🎸 Band Members
 
-## My favorite characters (in order)
+- **Lead Vocals:** [Member Name]
+- **Guitar:** [Member Name]
+- **Bass:** [Member Name]
+- **Drums:** [Member Name]
+- **Keyboard:** [Member Name]
+- **Backing Vocals:** [Member Name]
+- **Percussion:** [Member Name]
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+*Note: Replace [Member Name] with actual names.*
 
-Here's what `elflang` looks like (the perfect coding language):
+---
 
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
+## 📅 Upcoming Shows
 
-Want to get in touch? [Contact me here](/contact).
+Stay tuned for our upcoming performances! For the latest schedule, visit our [Facebook Events Page](https://www.facebook.com/Dock10Band/events).
 
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
+---
+
+## 📸 Media
+
+Check out some of our past performances:
+
+- [Dock 10 at Padavano's Place](https://www.facebook.com/Dock10Band/videos/bye-bye-love-dock-10-padavanos-place-31718/2013505055603647/)
+- [Dock 10 Returns to Rascals](https://www.facebook.com/Dock10Band/videos/dock-10-returns-to-rascals/276248507603768/)
+
+---
+
+## 📱 Connect with Us
+
+- **Facebook:** [Dock 10 Band](https://www.facebook.com/Dock10Band/)
+- **Instagram:** [@Dock10Band](https://www.instagram.com/Dock10Band/)
+
+For bookings and inquiries, please contact us through our social media channels.
+
+---
+
+*Let's keep the spirit of the '70s and '80s alive with Dock 10!*
